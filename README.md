@@ -1,0 +1,2 @@
+# Gpt-bot
+Trading signal
